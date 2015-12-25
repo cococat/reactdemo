@@ -1,0 +1,21 @@
+*{margin: 0;padding: 0;border: 0;}
+	.one{padding: 20px;}
+	.title{font-size: 20px;font-weight: bold;}
+	.main{display: -webkit-box;}
+	.demo{width: 100px;height:200px;border: 3px solid #999;resize: both; overflow: hidden;}
+	.op{margin-left: 30px;}
+	.op>div{margin: 20px 0;}
+	.op input,.op .code{height: 16px;line-height: 16px;border: 1px solid #000;}
+	.op .code{width:200px;height:100px;margin-top: 10px}
+	.op button{
+		background:#000;
+		color: #fff;
+		border-radius:10px;
+		height: 30px;
+		line-height: 30px;
+		margin:0 10px ; 
+		width: 50px;
+		text-align: center;
+
+	}
+	body{background: url(../test.png);}
